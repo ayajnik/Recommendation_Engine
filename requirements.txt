@@ -306,3 +306,4 @@ xmltodict==0.13.0
 yarl==1.9.2
 zc.lockfile==3.0.post1
 zipp==3.17.0
+-e .
